@@ -2,3 +2,4 @@
 go-wallet
 .env
 .DS_Store
+go.sum
